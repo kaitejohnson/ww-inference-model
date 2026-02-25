@@ -86,15 +86,6 @@ library(wwinference)
 We welcome and encourage contributions. Open an issue in the repository to request changes.
 To contribute, fork the repository locally and open a pull request into the `main` branch.
 
-## Public Domain Standard Notice
-This repository constitutes a work of the United States Government and is not
-subject to domestic copyright protection under 17 USC § 105. This repository is in
-the public domain within the United States, and copyright and related rights in
-the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
-All contributions to this repository will be released under the CC0 dedication. By
-submitting a pull request you are agreeing to comply with this waiver of
-copyright interest.
-
 ## Citation
 
 To cite `wwinference` in a publication, please use:
@@ -110,6 +101,15 @@ To cite `wwinference` in a publication, please use:
       }
 
 ```
+
+## Public Domain Standard Notice
+This repository constitutes a work of the United States Government and is not
+subject to domestic copyright protection under 17 USC § 105. This repository is in
+the public domain within the United States, and copyright and related rights in
+the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+All contributions to this repository will be released under the CC0 dedication. By
+submitting a pull request you are agreeing to comply with this waiver of
+copyright interest.
 
 ## Contributing Standard Notice
 Anyone is encouraged to contribute to the repository by [forking](https://help.github.com/articles/fork-a-repo)
